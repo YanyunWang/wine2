@@ -57,7 +57,7 @@ function LandingPageHeader() {
         <Container>
           <div className="motto text-center">
             <h1>Wine Smart</h1>
-            <h3>Discover new wines in just a few clicks.</h3>
+            <h3>Answer a few questions and our algorithm will recommend the wines you’ll love.</h3>
             <br />
             <Link2  to="learn-more" spy={true} smooth={true}>
               <Button
